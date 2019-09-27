@@ -1,5 +1,6 @@
 # Internet-Gratis-
-Aula de EHI DO G0RP0 TCXS Project
+Metodo EHI 
+Proxy SSH + Http Injector + PAYLOAD
 
 `Passo 1` 
 ```Crie uma conta ssh gratuita de 30 dias neste site:https://sshmonth.com/ 
